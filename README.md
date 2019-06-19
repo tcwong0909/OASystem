@@ -2,7 +2,7 @@
 
 #### 介绍
 OA办公系统，是基于办公自动化系统，提高公司日常办公效率的平台。目前主要功能有提交申请，审批，公司日常物资管理，日程提醒等；
-[项目代码连接](https://gitee.com/tcwong/officeSystem)
+[项目代码连接](https://github.com/tcwong0909/OASystem)
 
 #### 软件架构
 MVC、JSP、easyUI 、jquery 
@@ -10,7 +10,7 @@ MVC、JSP、easyUI 、jquery
 
 #### 安装教程
 
-1. git 代码 地址：https://gitee.com/tcwong/officeSystem.git
+1. git 代码 地址：https://github.com/tcwong0909/OASystem
 2. mysqldata文件 数据库建立
 3. localhost:8080 本地运行
 
@@ -23,7 +23,7 @@ MVC、JSP、easyUI 、jquery
 #### 参与贡献
 代码开发合作者 Ps Ly TcWong
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+
+联系本人
+
+![](https://oscimg.oschina.net/oscnet/96f4b52b5cb73e28aea7856806216a2424b.jpg)
